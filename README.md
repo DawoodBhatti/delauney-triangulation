@@ -6,3 +6,5 @@ reading and inspiration:
 https://www.gorillasun.de/blog/delaunay-triangulation-and-voronoi-diagrams/
 
 https://blog.displate.com/low-poly-art/?ref=gorillasun.de
+
+will get back to this soon :)
